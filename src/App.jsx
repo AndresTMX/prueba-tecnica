@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>list</h1>
+      <h1>get api</h1>
 
       <BrowserRouter>
         <Routes>
